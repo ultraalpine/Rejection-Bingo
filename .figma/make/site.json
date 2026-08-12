@@ -1,0 +1,10 @@
+{
+  "description": "Engage in a fun bingo rejection game with a mobile-friendly interface, featuring a reset button that shuffles squares while keeping the top left fixed.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
