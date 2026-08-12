@@ -1,5 +1,6 @@
 {
-  "description": "Engage in a fun bingo rejection game with a mobile-friendly interface, featuring a reset button that shuffles squares while keeping the top left fixed.",
+  "title": "Rejection Bingo",
+  "description": "And remember! You miss 100% of the roles you apply for!",
   "robots": {
     "index": false
   },
