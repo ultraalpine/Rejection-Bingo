@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => {
   const emitSourcemaps = mode === 'development'
 
   return {
-    base: /Rejection-Bingo/.test(process.env.GITHUB_REPOSITORY || '') ? '/Rejection-Bingo/' : '/',
+    base: '/Rejection-Bingo/',
     build: {
       sourcemap: emitSourcemaps ? 'inline' : false,
       minify: !emitSourcemaps,
