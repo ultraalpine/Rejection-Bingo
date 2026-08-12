@@ -373,7 +373,7 @@ export default function Frame() {
         pool
       </p>
       <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] left-[337.5px] text-[#1950a3] text-[15px] text-center top-[426px] w-[53px]" style={{ fontVariationSettings: '"wdth" 100' }}>
-        talent team
+        other candidates
       </p>
       <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] left-[433.5px] text-[#1950a3] text-[15px] text-center top-[591px] w-[45px]" style={{ fontVariationSettings: '"wdth" 100' }}>
         all the best

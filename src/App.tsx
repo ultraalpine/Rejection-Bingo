@@ -16,7 +16,7 @@ const ALL_PHRASES = [
   'future opportunities',
   'thank you for your interest',
   'stay connected',
-  'talent team',
+  'other candidates',
   'at this stage',
   'we hope',
   'better fit',
